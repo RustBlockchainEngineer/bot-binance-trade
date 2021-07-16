@@ -111,24 +111,3 @@ remember to install [pre-commit](https://pre-commit.com/):
 pip install pre-commit
 pre-commit install
 ```
-
-## Support the Project
-
-<a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## Join the Chat
-
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
-
-## FAQ
-
-A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
-
-## Disclaimer
-
-The code within this repository comes with no guarantee. Run it at your own risk.
-Do not risk money which you are afraid to lose. There might be bugs in the code - this software does not come with any warranty.
